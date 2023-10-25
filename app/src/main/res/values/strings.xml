@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Turismo Pampas</string>
+    <!--app-->
+    <string name="log_in">Iniciar Sesión</string>
+    <string name="create_account">Crear Cuenta</string>
+    <string name="welcome">Bienvenido a nuestro Hogar, Disfrute de sus paisajes</string>
+</resources>
